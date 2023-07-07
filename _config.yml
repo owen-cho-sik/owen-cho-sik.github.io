@@ -107,8 +107,8 @@ author:
   name             : "Owen Cho"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Web programmer"
-  location         : "South Korea"
-  email            :
+  location         : "Somewhere in South Korea"
+  email            : "owen_cho@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
